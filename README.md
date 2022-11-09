@@ -1,3 +1,3 @@
 # AnalyticsSmiles
 
-A description of this package.
+Analytics module using strategy design pattern.
